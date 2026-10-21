@@ -3,7 +3,7 @@
 # 🌦️ Weather Forecast Analyzer of Bangladesh 🇧🇩
 ### *Agricultural & Environmental Weather Record Management and Statistical Analysis System*
 
-![Python](https://img.shields.io/badge/Python-3.12.5-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.13.5-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Statistical_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI_Dashboard-FF6F00?style=for-the-badge&logo=python&logoColor=white)
