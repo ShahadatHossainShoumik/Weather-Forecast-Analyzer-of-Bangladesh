@@ -141,7 +141,7 @@ In Bangladesh, agriculture and local livelihoods depend heavily on seasonal rain
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/Weather-Forecast-Analyzer-Bangladesh.git](https://github.com/YOUR_GITHUB_USERNAME/Weather-Forecast-Analyzer-Bangladesh.git)
+git clone
 cd Weather-Forecast-Analyzer-Bangladesh
 ```
 
@@ -165,9 +165,10 @@ python main.py
 
 | Name | Role & Contribution |
 | :--- | :--- |
-| **Member 1 (Lead / Backend & Data Analysis)** | Data Cleaning (Pandas), Statistical Analysis (NumPy), OOP Architecture (`WeatherRecord` & `WeatherManager`), Exception & File Handling |
+| **Shahadat Hossain (Lead / Backend & Data Analysis)** | Data Cleaning (Pandas), Statistical Analysis (NumPy), OOP Architecture (`WeatherRecord` & `WeatherManager`), Exception & File Handling |
 | **Member 2 (GUI & Frontend Integration)** | Tkinter Dashboard Design, Input Forms, Table View, and Event Binding |
-| **Member 3 (GUI & Documentation / Testing)** | UI Components, Validation Testing, Project Report, and Viva Demonstration |
+| **Member 3 (GUI & Documentation / Testing)** | UI Components, Validation Testing, Project Report |
+| **Member 4 (Documentation)** |Project Report |
 
 ---
 
